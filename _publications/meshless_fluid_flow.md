@@ -1,12 +1,11 @@
 ---
 title: "A high-order accurate meshless method for solution of incompressible fluid flow problems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/meshless_fluid_flow
 excerpt: 
-date: 2009-10-01
+date: 2021
 venue: 'Journal of Computational Physics'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0021999121005180'
-citation: 'Shahane, Shantanu and Radhakrishnan, Anand and Vanka, Surya Pratap. (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S.Shahane, A.Radhakrishnan, S.P. Vanka, A high-order accurate mesh-642less  method  for  solution  of  incompressible  fluid  flow  problem, Journal of Computational Physics, 445 (2021)'
 ---
 
 

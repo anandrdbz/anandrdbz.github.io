@@ -8,5 +8,3 @@ citation: 'S.Shahane, A.Radhakrishnan, S.P. Vanka, A high-order accurate mesh-64
 ---
 
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0021999121005180)
-

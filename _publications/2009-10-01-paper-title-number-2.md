@@ -1,7 +1,7 @@
 ---
 title: "A high-order accurate meshless method for solution of incompressible fluid flow problems"
 collection: publications
-permalink: /publication/meshless_fluid_flow
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 
 date: 2021
 venue: 'Journal of Computational Physics'
